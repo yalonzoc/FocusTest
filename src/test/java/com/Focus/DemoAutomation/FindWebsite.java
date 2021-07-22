@@ -26,7 +26,8 @@ public class FindWebsite {
 	  @Before
 	  public void setUp() throws Exception {
 	   
-		  System.setProperty("webdriver.chrome.driver","C:\\Users\\yalonzo\\Desktop\\eclipse\\chromedriver.exe");
+		  //System.setProperty("webdriver.chrome.driver","C:\\Users\\yalonzo\\Desktop\\eclipse\\chromedriver.exe");
+		  System.setProperty("webdriver.chrome.driver",".\\resources\\chromedriver.exe");
 		  driver = new ChromeDriver();
 
 	  }
