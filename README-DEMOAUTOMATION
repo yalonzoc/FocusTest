@@ -16,6 +16,9 @@ Steps:
 4. Select opcion Run -> JUnit Test
 5. Waiting for execution of Automation Tests
 
+**If you have problems with importing project, you could use the zip file "DemoAutomation.zip" extract folder
+and import it using the steps above from step number 2.
+
 **The project contains two test cases one for open and validating the focus services web page 
 and second test for filling job apply form.
 
