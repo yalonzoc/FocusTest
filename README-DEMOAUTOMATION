@@ -1,0 +1,24 @@
+README DemoAutomation
+
+Steps:
+
+1. Download all the project
+2. Import using Eclipse IDE better with version 4.20.0
+	A. Open Eclipse IDE
+	B. Select File option.
+	C. Select Import option
+	D. Select General -> Project from Folder or Archive
+	E. Click in Next
+	F. Choose Directory button and select the location of package previously downloaded.
+	G. Click in Select button
+	H. Click in Finish button.
+3. Right click in folder DemoAutomation project in left hierarchy
+4. Select opcion Run -> JUnit Test
+5. Waiting for execution of Automation Tests
+
+**The project contains two test cases one for open and validating the focus services web page 
+and second test for filling job apply form.
+
+**If you need 24/7 assistance please send an email to yuri_alonzo@hotmail.com
+
+**END 
